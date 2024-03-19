@@ -17,3 +17,6 @@
 ### Libraries 📚
 - Tailwind CSS
 - shadcn, shadcn-svelte
+
+### Active side project 📚
+- Pocket Design https://pocket-design.vercel.app/
