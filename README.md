@@ -2,18 +2,18 @@
 
 ### My name is Jirawat Phattarawasitpol
 
-## Languages 💬
+### Languages 💬
 - HTML
 - CSS
 - Typescript, Javascript
 - Golang
 
-## Frameworks ✨
+### Frameworks ✨
 - Sveltekit
 - ReactJS, NextJS
 - AstroJS
 - Go Fiber
 
-## Libraries 📚
+### Libraries 📚
 - Tailwind CSS
 - shadcn, shadcn-svelte
