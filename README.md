@@ -3,6 +3,8 @@
 ### My name is Jirawat Phattarawasitpol
 
 ## Languages 💬
+- HTML
+- CSS
 - Typescript, Javascript
 - Golang
 
