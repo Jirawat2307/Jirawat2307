@@ -19,4 +19,5 @@
 - shadcn, shadcn-svelte
 
 ### Active side project ⚡️
-- Pocket Design https://pocket-design.vercel.app/
+- Pocket Design - A tool for visualize colors, fonts and more.
+  https://pocket-design.vercel.app/
