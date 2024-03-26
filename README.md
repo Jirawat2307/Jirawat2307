@@ -4,19 +4,15 @@
 
 I am and Frontend Developer and i love to explore a new things.
 
-### Languages 💬
-
+## Languages 💬
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts)](https://skillicons.dev)
 
-### Frameworks ✨
+## Frameworks ✨
+[![My Skills](https://skillicons.dev/icons?i=svelte,react,next)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,svelte,react,next)](https://skillicons.dev)
-
-### Tools ⚒️
-
-[![My Skills](https://skillicons.dev/icons?i=js,tailwind,vscode,pnpm)](https://skillicons.dev)
+## Tools ⚒️
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vscode,pnpm,figma,postman,vercel)](https://skillicons.dev)
 
 ### Active side project ⚡️
 
-- Pocket Design - A tool for visualize colors, fonts and more.
-  https://pocket-design.vercel.app/
+- [Pocket Design](https://pocket-design.vercel.app/) - A tool for visualize colors, fonts and more.
